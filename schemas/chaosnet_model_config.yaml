@@ -1,0 +1,7 @@
+model: ChaosNetV3
+layers:
+  - Transformer
+  - FeedbackLSTM
+params:
+  epochs: 2048
+  branching: true

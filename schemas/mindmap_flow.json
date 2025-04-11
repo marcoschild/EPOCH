@@ -1,0 +1,1 @@
+{ "schema": "v3", "nodes": ["thought", "emotion", "event"], "edges": ["causal", "reflective"] }
